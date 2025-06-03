@@ -1,41 +1,68 @@
-Bem-vindo(a) ao meu perfil no GitHub!
+<h1 align="center">Fala aí, eu sou o André 👋</h1>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Universidade de Fortaleza (Unifor), iniciando o segundo semestre. Quero construir uma base sólida em desenvolvimento de software e busco ativamente por oportunidades de estágio e projetos onde possa aplicar e expandir meus conhecimentos.
+<p align="center">
+  🎯 Estudante de ADS na UNIFOR | 💻 Aprendendo a domar códigos <br>
+  🚀 Buscando meu primeiro estágio em tech <br>
+  😄 Curioso por natureza | 🎮 Dev wannabe de jogos nas horas vagas
+</p>
 
-Foco Atual e Interesses:
+---
 
-•
-Tecnologias em estudo:
+### 🧠 No que tô mergulhado ultimamente:
 
-•
- JavaScript (disciplina atual na faculdade)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35"/>
+</p>
 
-•
- Linux (aprendendo por conta própria)
+- 📘 JavaScript (na faculdade)
+- 🐧 Linux e CLI (por conta própria)
+- 💙 TypeScript (autodidata style)
+- ☕ Java (chegando com tudo no próximo semestre)
 
-•
-TypeScript (aprendendo por conta própria)
+---
 
-•
- Java (próxima disciplina na faculdade)
+### 💼 Projetos e Prática
 
+🧩 Resolvo muitos desafios no [Beecrowd](https://www.beecrowd.com.br/) para treinar lógica.  
+🚧 Organizo tudo no meu GitHub — como um portfólio vivo de onde estou e pra onde tô indo.  
+🎮 Também quero me aprofundar em desenvolvimento de jogos com o tempo.
 
+---
 
-•
-Prática: Estou consolidando meus conhecimentos em lógica de programação através de exercícios (como os da plataforma Beecrowd) e organizando minhas soluções aqui no GitHub.
+### 📊 GitHub em ação
 
-•
-Objetivo de Carreira: Tenho grande interesse na área de desenvolvimento de jogos e planejo direcionar meus estudos futuros para este campo.
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andrefrota10&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefrota10&layout=compact&theme=tokyonight"/>
+</p>
 
-Fale comigo:
+---
 
-•
-📧 Email: andreafilhoxd13@hotmail.com
+### 🏆 Badges de aprendizado
 
-•
-🔗 LinkedIn: https://www.linkedin.com/in/andre-frota-005145354
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-Aprendendo-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-Estudando-blue?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Linux-Hackeando_terminal-black?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Java-Vem_aí-orange?style=for-the-badge&logo=java" />
+</p>
 
-Obrigado pela visita!
+---
 
+### 📫 Bora conversar?
 
+- 📧 **andrefilhoxd13@hotmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/andre-frota-005145354)
 
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif" />
+</p>
+
+<p align="center">
+  Obrigado por passar aqui! Bora codar juntos? 🤝
+</p>
