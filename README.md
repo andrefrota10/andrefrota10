@@ -3,7 +3,7 @@
 <p align="center">
   🎯 Estudante de ADS na UNIFOR | 💻 Aprendendo a domar códigos <br>
   🚀 Buscando meu primeiro estágio em tech <br>
-  😄 Curioso por natureza | 🎮 Dev wannabe de jogos nas horas vagas
+  🎮 Dev wannabe de jogos nas horas vagas
 </p>
 
 ---
